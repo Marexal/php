@@ -1,2 +1,2 @@
 # php
-Repository for the php rograming ourse
+Repository for the php programing ourse
